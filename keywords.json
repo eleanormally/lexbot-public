@@ -1,0 +1,124 @@
+{
+  "math": [
+    "math",
+    "calc",
+    "statistics",
+    "accounting",
+    "robotics",
+    "computer"
+  ],
+  "english": [
+    "literature",
+    "writing",
+    "dystopias",
+    "mythology",
+    "english"
+  ],
+  "science": [
+    "science",
+    "biology",
+    "chemistry",
+    "physics",
+    "astronomy"
+  ],
+  "history": [
+    "history",
+    "government",
+    "politic",
+    "geography",
+    "holocaust",
+    "gender and human behavior",
+    "child development",
+    "phsych",
+    "law",
+    "economic",
+    "finance",
+    "marketing",
+    "media studies",
+    "debate"
+  ],
+  "french": [
+    "french"
+  ],
+  "german": [
+    "german"
+  ],
+  "italian": [
+    "italian"
+  ],
+  "latin": [
+    "latin"
+  ],
+  "mandarin": [
+    "mandarin"
+  ],
+  "spanish": [
+    "spanish"
+  ],
+  "ASL": [
+    "asl",
+    "american sign language"
+  ],
+  "gym": [
+    "gym",
+    "homeroom",
+    "advisory",
+    "counselor",
+    "fitness",
+    "health",
+    "activit",
+    "badminton",
+    "football",
+    "volleyball",
+    "rollerblading",
+    "fencing",
+    "rollerblading",
+    "cardio",
+    "tennis",
+    "first aid",
+    "yoga",
+    "musical theater",
+    "mind body",
+    "dance",
+    "frisbee",
+    "total body",
+    "mind/body",
+    "mechanics",
+    "golf",
+    "athletic",
+    "directed",
+    "resource",
+    "credits"
+
+  ],
+  "music": [
+    "piano",
+    "music",
+    "composition",
+    "arranging",
+    "chorale",
+    "chamber",
+    "sing",
+    "choir",
+    "concert",
+    "band",
+    "jazz",
+    "symphony",
+    "ensemble",
+    "orchestra",
+    "strings"
+  ],
+  "arts": [
+    "art",
+    "drawing",
+    "animation",
+    "graphic",
+    "illustration",
+    "painting",
+    "ceramics",
+    "photo",
+    "imaging",
+    "sculpture",
+    "video"
+  ]
+}

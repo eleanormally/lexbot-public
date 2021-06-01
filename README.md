@@ -1,2 +1,2 @@
-# lexbot-public
-A sign-in and authentication bot for the Lexington High School Discord server
+# LexBot
+A Discord bot to automate security and role distribution
